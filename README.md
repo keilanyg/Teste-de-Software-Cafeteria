@@ -1,7 +1,6 @@
 Prática de criação de testes de unidade de uma cafeteira, que permite preparar receitas, adicionar ingredientes e fazer uma entre várias bebidas.
 
-![Casos de teste](https://github.com/keilanyg/Teste-de-Software-Cafeteria/assets/112432902/e1b68401-99eb-4472-af49-dfb4a10d3f15)
-
+![Casos de teste](https://github.com/keilanyg/Teste-de-Software-Cafeteria/assets/112432902/89b0f5bc-41f8-430e-8007-5ef53f1e0efa)
 
 Quando a cafeteira não está em uso, ela aguarda a entrada do usuário. Possui seis opções diferentes de entrada do usuário: 
 1) Adicionar receita
